@@ -3,9 +3,9 @@ Os comentários sobre o raciocínio de resolução estão junto do código no ar
 Questão OBI nível sénior - FASE 3
 
 <p align="center" width="100%">
-    <img width="70%" src="https://i.imgur.com/FhWXbQj.png">
+    <img width="80%" src="https://i.imgur.com/FhWXbQj.png">
 </p>
 
 <p align="center" width="100%">
-    <img width="70%" src="https://i.imgur.com/lBF1Gsw.png">
+    <img width="80%" src="https://i.imgur.com/lBF1Gsw.png">
 </p>
